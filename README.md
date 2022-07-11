@@ -13,7 +13,6 @@
   <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusprado1&count_private=true&theme=tokyonight&layout=compact" />
 </a>
 <a href="https://github.com/matheusprado1/github-readme-stats">
-  <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusprado1&repo=github-readme-stats" />
 </a>
 
 ### Skills: 
