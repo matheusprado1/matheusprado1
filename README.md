@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 
-**matheusprado1/matheusprado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **matheusprado1/matheusprado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
-### Hi there 👋
-- 🔭 I’m currently studying on a 1 year fullstack bootcamp.
-- 🌱 I’m currently learning NodeJS.
+- 🔭 Full stack student at Kenzie Academy, front-end graduate.
+- 🌱 I’m currently learning TypeScript.
 <a href="https://github.com/matheusprado1/github-readme-stats">
   <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api?username=matheusprado1&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
