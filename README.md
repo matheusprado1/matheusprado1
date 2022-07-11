@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 
-https://github-readme-stats.vercel.app/api/pin/?username=matheusprado1&repo=github-readme-stats
-https://github.com/matheusprado1/github-readme-stats
+
 <!-- **matheusprado1/matheusprado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Full stack student at Kenzie Academy, front-end graduate.
 - 🌱 I’m currently learning TypeScript.
-<a href="https://github.com/matheusprado1/github-readme-stats">
+<a href="https://github.com/matheusprado1/">
   <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api?username=matheusprado1&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/matheusprado1/github-readme-stats">
+<a href="https://github.com/matheusprado1/">
   <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusprado1&count_private=true&theme=tokyonight&layout=compact" />
 </a>
 
