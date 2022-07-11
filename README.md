@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusprado1&repo=github-readme-stats)](https://github.com/matheusprado1/github-readme-stats)
+https://github-readme-stats.vercel.app/api/pin/?username=matheusprado1&repo=github-readme-stats
+https://github.com/matheusprado1/github-readme-stats
 <!-- **matheusprado1/matheusprado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Full stack student at Kenzie Academy, front-end graduate.
