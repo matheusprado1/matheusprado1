@@ -11,8 +11,8 @@
   <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api?username=matheusprado1&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/lufelipe12/github-readme-stats">
-  <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusprado1&count_private=true&theme=tokyonight&layout=compact" />
+<a href="https://github.com/matheusprado1/">
+  <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusprado1&show_icons=true&count_private=true&theme=tokyonight&layout=compact" />
 </a>
 
 ## 😂 Here is a random joke that'll make you laugh!
