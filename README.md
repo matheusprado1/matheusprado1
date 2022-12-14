@@ -2,7 +2,7 @@
 
 <!-- **matheusprado1/matheusprado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Full stack student at Kenzie Academy, front-end graduate.
+- 🔭 Full stack developer.
 - 📫 How to reach me: <div>
  <a href="https://www.linkedin.com/in/matheus-prado-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
